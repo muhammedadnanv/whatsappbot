@@ -40,6 +40,8 @@ Command Cases:
    - 'everyone': Mentions everyone in the chat.
    - 'control': Welcomes users to the bot.
 
+<img src="https://count.getloli.com/get/@:muhammedadnanv" alt=":name" />
+
 Conclusion:
 The implemented command cases in the WhatsApp bot cater to a diverse range of user interactions, providing information, entertainment, and engagement. By organizing commands into distinct categories, the bot ensures efficient handling and appropriate responses to user queries and actions.
 
